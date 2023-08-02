@@ -19,7 +19,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 <br>
 
 <p align="center">
-  <img alt="projetoLinks" src="./assets/assets/projeto-links.jpeg" width="100%">
+  <img alt="projetoLinks" src="./assets/assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -46,3 +46,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+---
