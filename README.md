@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Projeto Links</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-![projeto links](https://github.com/Abnerdev03/projeto-links/assets/141144654/c7990d7f-2777-4102-b39f-2313b4efe378)
+<img src= "https://github.com/Abnerdev03/projeto-links/assets/141144654/c7990d7f-2777-4102-b39f-2313b4efe378"/>
 
 </p>
 
